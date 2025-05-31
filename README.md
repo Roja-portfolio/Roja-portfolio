@@ -78,5 +78,5 @@ Relevant Courses: HCI, GIS, Mobile App Dev, Python Programming
 - 📧 Email: (rpkroja@gmail.com)
 - 🌐 GitHub: (https://github.com/Roja-portfolio)
 - 🔗 LinkedIn: (www.linkedin.com/in/rose-kathiravan-b872a130b)
-- (https://github.com/user-attachments/files/20535435/Roja.Resume.pdf)
-- [Roja Resume.pdf]
+- [Roja Resume.pdf](https://github.com/user-attachments/files/20535435/Roja.Resume.pdf)
+  
