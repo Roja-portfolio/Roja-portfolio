@@ -17,7 +17,7 @@ A passionate designer and researcher exploring the intersection of technology, d
 
 ## 🚀 Projects
 
-### ♿️ [AI-Driven Accessibility Checker](https://github.com/rojakathiravan/ai-accessibility-checker)
+### ♿️ [AI-Driven Accessibility Checker](https://github.com/Roja-portfolio/AI-Driven-Accessibility-Checker-for-UI-Designs)
 *Streamlit web app evaluating UI screenshots for WCAG accessibility compliance.*
 
 - Rule-based WCAG 2.1 audit for color contrast, text scaling, alt text
@@ -25,7 +25,7 @@ A passionate designer and researcher exploring the intersection of technology, d
 - Interactive dashboard to visualize violations and suggestions
 
 
-### 🎨 [Emoji Cultural Exhibit](https://github.com/rojakathiravan/emoji-cultural-exhibit)
+### 🎨 [Emoji Cultural Exhibit](https://github.com/Roja-portfolio/Emoji-Cultural-Exhibit-Interactive-Exhibit-)
 *An interactive multimedia exhibit exploring the cultural and emotional impact of emojis.*
 
 - Researched emoji evolution and diversity (Fitzpatrick scale, gender representation)
@@ -78,5 +78,5 @@ Relevant Courses: HCI, GIS, Mobile App Dev, Python Programming
 - 📧 Email: (rpkroja@gmail.com)
 - 🌐 GitHub: (https://github.com/Roja-portfolio)
 - 🔗 LinkedIn: (www.linkedin.com/in/rose-kathiravan-b872a130b)
-- [Roja Resume.pdf](https://github.com/user-attachments/files/20535435/Roja.Resume.pdf)
+  
   
